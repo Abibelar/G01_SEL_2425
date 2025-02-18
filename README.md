@@ -13,4 +13,7 @@ Deze repository bevat de opdrachten voor het vak System Engineering Lab, dat dee
 | Erion Sekiraca | [username](https://github.com/username) |
 
 ## Inhoudstafel
+- `opdrachten/` bevat alle opdrachten.
+- `cheat-sheets/` bevat de cheat sheets en checklists per student.
+- `verslagen/` bevat de verslagen van de opdrachten.
 
