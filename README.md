@@ -7,10 +7,10 @@ Deze repository bevat de opdrachten voor het vak System Engineering Lab, dat dee
 | Name      | GitHub username                         |
 | :-------- | :-------------------------------------- |
 | Obe Vergote | [username](https://github.com/Abibelar) |
-| Maxime martens | [username](https://github.com/Thebluepigg) |
-| Student 3 | [username](https://github.com/username) |
-| Student 4 | [username](https://github.com/username) |
-| Student 5 | [username](https://github.com/username) |
+| Maxime Martens | [username](https://github.com/Thebluepigg) |
+| Matteo Meire | [username](https://github.com/username) |
+| Stijn Smits | [username](https://github.com/username) |
+| Erion Sekiraca | [username](https://github.com/username) |
 
 ## Inhoudstafel
 
