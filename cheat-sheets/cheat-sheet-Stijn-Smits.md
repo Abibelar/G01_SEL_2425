@@ -25,4 +25,5 @@ Naar andere branch schakelen | `git checkout BRANCH`
 Branches samenvoegen | `git merge BRANCH`
 Commit geschiedenis bekijken | `git log`
 
+
 ---
