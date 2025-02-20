@@ -42,6 +42,4 @@ Geen problemen ondervonden
 
 ## Reflecties
 
-Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
-
-Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij om ze te delen.
+Deze opdracht was eenvoudig en ging vlot, ik zou niks anders gedaan hebben.
