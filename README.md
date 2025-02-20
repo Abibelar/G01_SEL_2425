@@ -5,9 +5,9 @@
 | :-------- | :-------------------------------------- |
 | Obe Vergote | [Abibelar](https://github.com/Abibelar) |
 | Maxime Martens | [ThebluePigg](https://github.com/Thebluepigg) |
-| Matteo Meire | [username](https://github.com/username) |
+| Matteo Meire | [MatteoMeire](https://github.com/MatteoMeire) |
 | Stijn Smits | [Stijn4656](https://github.com/Stijn4656) |
-| Erion Sekiraca | [username](https://github.com/username) |
+| Erion Sekiraca | [Seki-maker](https://github.com/Seki-maker) |
 
 ## Inhoudstafel
 - `opdrachten/` bevat alle opdrachten.
