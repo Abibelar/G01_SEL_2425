@@ -30,12 +30,12 @@ Hier beschrijf je het antwoord op de vraag. Voeg eventueel een screenshot, code 
 
 ## Evaluatiecriteria
 
-- [ ] Je hebt een package manager voor jouw besturingssysteem geïnstalleerd.
-- [ ] Je hebt een script (PowerShell of Bash, afhankelijk van je besturingssysteem) geschreven en gebruikt om de opgesomde applicaties te installeren.
-- [ ] Je toont inzicht in de werking van een package manager en kan deze vlot kan gebruiken om basistaken uit te voeren.
-- [ ] Je hebt een verslag gemaakt op basis van het template.
-- [ ] De cheat sheet is aangevuld met nuttige commando's die je wil onthouden.
-- [ ] Je kan een correct antwoord geven op de vragen die zijn aangeduid met een :question:.
+- [X] Je hebt een package manager voor jouw besturingssysteem geïnstalleerd.
+- [X] Je hebt een script (PowerShell of Bash, afhankelijk van je besturingssysteem) geschreven en gebruikt om de opgesomde applicaties te installeren.
+- [X] Je toont inzicht in de werking van een package manager en kan deze vlot kan gebruiken om basistaken uit te voeren.
+- [X] Je hebt een verslag gemaakt op basis van het template.
+- [X] De cheat sheet is aangevuld met nuttige commando's die je wil onthouden.
+- [X] Je kan een correct antwoord geven op de vragen die zijn aangeduid met een :question:.
 ## Problemen en oplossingen
 
 Geen problemen ondervonden
