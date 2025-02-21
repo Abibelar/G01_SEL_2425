@@ -44,4 +44,4 @@ Geen problemen.
 
 ## Reflecties
 
-Het ging redelijk goed, ik zou niet anders doen.
+Het ging redelijk goed, ik zou niks anders doen.
