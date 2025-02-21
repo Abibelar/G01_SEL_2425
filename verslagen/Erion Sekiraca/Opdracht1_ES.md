@@ -38,3 +38,10 @@ De optie --id: Geeft het specifieke ID op van het pakket dat je wilt installeren
 
 
 
+## Problemen en oplossingen
+
+Geen problemen.
+
+## Reflecties
+
+Het ging redelijk goed, ik zou niet anders doen.
