@@ -6,7 +6,7 @@
 
 Beschrijf de opdracht in eigen woorden. Wat werd er van jullie verwacht? Wat was het doel van de opdracht?
 
-## Antwooden op de vragen in de opdracht
+## Antwooden op de vragen in de opdracht 
 
 Voeg hieronder de antwoorden op de vragen in de opdracht toe. Gebruik voor elke vraag een aparte sectie.
 
@@ -30,4 +30,11 @@ De optie --id: Geeft het specifieke ID op van het pakket dat je wilt installeren
 ## Evaluatiecriteria
 
 - [x] Je hebt een package manager voor jouw besturingssysteem geïnstalleerd.
+- [x] Je hebt een script (PowerShell of Bash, afhankelijk van je besturingssysteem) geschreven en gebruikt om de opgesomde applicaties te installeren.
+- [x] Je toont inzicht in de werking van een package manager en kan deze vlot kan gebruiken om basistaken uit te voeren.
+- [x] Je hebt een verslag gemaakt op basis van het template.
+- [] De cheat sheet is aangevuld met nuttige commando's die je wil onthouden.
+- [x] Je kan een correct antwoord geven op de vragen die zijn aangeduid met een ❓.
+
+
 
