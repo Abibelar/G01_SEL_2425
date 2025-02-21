@@ -33,7 +33,7 @@ De optie --id: Geeft het specifieke ID op van het pakket dat je wilt installeren
 - [x] Je hebt een script (PowerShell of Bash, afhankelijk van je besturingssysteem) geschreven en gebruikt om de opgesomde applicaties te installeren.
 - [x] Je toont inzicht in de werking van een package manager en kan deze vlot kan gebruiken om basistaken uit te voeren.
 - [x] Je hebt een verslag gemaakt op basis van het template.
-- [] De cheat sheet is aangevuld met nuttige commando's die je wil onthouden.
+- [ ] De cheat sheet is aangevuld met nuttige commando's die je wil onthouden.
 - [x] Je kan een correct antwoord geven op de vragen die zijn aangeduid met een ❓.
 
 
