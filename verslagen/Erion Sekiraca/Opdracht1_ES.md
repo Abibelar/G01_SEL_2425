@@ -22,4 +22,12 @@ C:\Users\erion\OneDrive\Desktop\SEL\Opdracht 1
 
 D:\Users\BertVV\Documents\Hogent\SELab
 
+### Vraag 4: Wat doen de opties -e en --id voor winget install?
+
+De optie -e: Wilt zeggen dat je de exacte ID nodig hebt bij de installatie en niet iets met soortgelijke naam.
+De optie --id: Geeft het specifieke ID op van het pakket dat je wilt installeren. 
+
+## Evaluatiecriteria
+
+- [x] Je hebt een package manager voor jouw besturingssysteem geïnstalleerd.
 
