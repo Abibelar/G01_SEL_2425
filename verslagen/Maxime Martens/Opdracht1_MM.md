@@ -1,6 +1,6 @@
 # Verslag: Opdracht 1
 
-> Naam verslaggever: Obe Vergote
+> Naam verslaggever: Maxime Martens
 
 ## Beschrijving
 
